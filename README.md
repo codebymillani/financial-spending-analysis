@@ -1,4 +1,4 @@
-# Financial Spending Analysis
+# Olist E-Commerce Customer Analysis
 
 ## Overview
 This project looks at customer purchase data from the Olist Brazilian E-Commerce dataset. The goal was to clean and analyze the data, identify customer spending patterns, and visualize trends using Python.
